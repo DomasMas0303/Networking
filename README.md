@@ -1,7 +1,7 @@
 <h1>EPAM Essentials - Networking</h1>
 
 <h2>Description</h2>
-Course consists of three main modules (Basic Networking, Subnets and Routing with Protocols, Network Services) And each of the modules consists of lectures on differen topics followed up by "Knowledge check" tests after each topic and "homework".
+Course consists of three main modules (Basic Networking, Subnets and Routing with Protocols, Network Services) And each of the modules consists of lectures on different topics followed up by "Knowledge check" tests after each topic and "homework".
 <br />
 
 
